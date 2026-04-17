@@ -44,11 +44,6 @@ Tidak ada roadmap jelas. Tidak ada ambisi mulia. hanya pikiran random yang di ub
    ```
 </details>
 
-<details>
-<summary> Minta Maaf</summary>
-   <p>di buant dengan HTML, CSS, dan Javascript. bisa banget di kirim ke doi yang lagi ngambek </p>
-</details>
-
 </div>
 
 
